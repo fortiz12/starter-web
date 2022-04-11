@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Aca va lo de deployment
+Aca va lo de deployment. Aca agrego cosas al working directory
 
 ## Contact Info
 
@@ -16,5 +16,8 @@ Aca va mi info de contacto
 
 ## How to contribute
 
+## Other ways to contribute
+
+Aca agrego otras formas
 
 
