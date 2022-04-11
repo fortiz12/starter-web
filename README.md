@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 Add a sentence for rebasing
+Add another sentence for rebasing
 
 ## Purpose
 
