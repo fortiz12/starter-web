@@ -3,7 +3,8 @@
 This repository is for showing how Git and GitHub work
 
 Add a sentence for rebasing
-Add another sentence for rebasing
+Add another sentence for rebasing, comma and more changes
+y otra linea por las dudas
 
 ## Purpose
 
